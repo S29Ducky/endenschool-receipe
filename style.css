@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background-color: beige;
+    padding: 2rem 29rem;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+
+.image,
+section {
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: white;
+    padding: 2rem;
+}
+
+h1 {
+    padding: 1rem 0;
+}
+
+.art1 {
+    padding: 1rem 3rem;
+    background-color: #fff7fb;
+    border-radius: 20px;
+}
+
+.temps {
+    color: #7a284e;
+    margin-bottom: 16px;
+}
+
+.Ingrédients {
+    color: #854632;
+}
+
+.ol {
+    font-weight: 900;
+}
+
+.ol li .normal {
+    font-weight: normal;
+}
+
+hr{
+    background-color: #E3DDD7;
+    border-style: none;
+    height: 1px;
+    margin: 32px 0;
+}
+
+.h2instru{
+    color: #854632;
+    margin: 52px 0;
+}
+
+
+li {
+    padding-left: 28px;
+    padding-top: 8px;
+    color: #854632;
+}
+
+span {
+    color: #5f564d;
+    font-weight: 900;
+}
+
